@@ -1,2 +1,2 @@
 # inboxgatekeeper
-My inbox gatekeeper project, cause f*ck spam and automated marketing
+My attempt to eliminating spam and marketing email from my inbox. Each file is a test as I iterate through the process to determine the best solution.  Initially I start out with traditional vs llm test, from there I noticed a majority of my emails were all marketing but being interpreted as HAM, so I decided to increase rules to a Zero-Trust / Human-Only approach, and implemented an automated challenge response test, and a persisted whitelist.  
